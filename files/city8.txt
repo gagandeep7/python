@@ -1,0 +1,21 @@
+﻿SNo,City,State,lat,long
+1,Agartala,Tripura,23.50,91.16
+2,Agra,Uttar Pradesh,27.11,78.01
+3,Ahmedabad,Gujarat,23.02,72.35
+4,Amritsar,Punjab,31.38,74.52
+5,Bangalore,Karnataka,12.58,77.34
+6,Chandigarh,punjab,30.45,76.47
+7,Chennai(Madras),Tamil Nadu,13.05,80.16
+8,Dibrugarh,Assam,27.29,95.00
+9,Gangtok,Sikkim,27.20,88.37
+10,Guwahati,Assam,26.11,91.44
+11,Hyderabad,Andhra Pradesh,17.22,78.29
+12,Jaipur,Rajasthan,26.56,75.49
+13,Kandla,,23.03,70.11
+14,Kanpur,Uttar Pradesh,26.28,80.20
+15,Kochi,Kerala,9.58,76.17
+16,Kolkata (Calcutta),West Bengal,22.34,88.22
+17,Kulpahar,Uttar Pradesh,25.19,79.38
+18,Lucknow,Uttar Pradesh,26.51,80.57
+
+

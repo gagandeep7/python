@@ -1,0 +1,8 @@
+lis=[6,3,7,5,9,1,8,2]
+list2=[]
+mins=min(lis)
+maxs=max(lis)
+for i in range(mins,maxs+1):
+	list2.append(i)
+element=sum(list2)-sum(lis)	
+print(sum(list2))
