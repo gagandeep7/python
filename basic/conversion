@@ -1,0 +1,6 @@
+
+
+
+rs = int(input("enter rupees"))
+dollar = rs/57
+print(dollar)
